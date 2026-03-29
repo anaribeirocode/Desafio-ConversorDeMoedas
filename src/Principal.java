@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Principal {
     public static void main(String[] args) {
         Scanner leitura = new Scanner(System.in);
-        ConversorDeMoedas consulta = new ConversorDeMoedas(); // Instanciando nossa classe auxiliar
+        ConversorDeMoedas consulta = new ConversorDeMoedas();
 
         String apiKey = "2f42bad32424095e260d73e1";
 
